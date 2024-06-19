@@ -29,3 +29,6 @@ por fim, a partir da manipulação desses tipos de dados, podem ser criados TADs
 na memória do computador onde eles se encontram. Ponteiros possibilitm acesso ao valor do dado e também ao seu endereço de memória.
 
 # memória
+uum componente capaz de armazenar dados e programas. É nesse componente que os
+softwares são carregados para execução, assim como os dados que são manipulados pelos
+softwares.
