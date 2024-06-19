@@ -32,3 +32,9 @@ na memória do computador onde eles se encontram. Ponteiros possibilitm acesso a
 uum componente capaz de armazenar dados e programas. É nesse componente que os
 softwares são carregados para execução, assim como os dados que são manipulados pelos
 softwares.
+MP => Memória Principal
+- Possibilita acesso rápido e que tem curto tempo de vida. Dados armazenados nesse tipo são voláteis.
+MS => Memória Secundária
+- Possui um acesse mais lento e tem tempo de vida longo. Dados armazenados nesse tipo de memória são duráveis.
+HEAP =>
+É o principal espaço de memória utilizado pelos computadores para executar programas. É nesse local que linguagens estruturadas armazenam as variáveis de escopo global e que linguagens orientadas a objetos armazenam os objetos criados através do operador new.
