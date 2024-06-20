@@ -38,3 +38,9 @@ MS => Memória Secundária
 - Possui um acesse mais lento e tem tempo de vida longo. Dados armazenados nesse tipo de memória são duráveis.
 HEAP =>
 É o principal espaço de memória utilizado pelos computadores para executar programas. É nesse local que linguagens estruturadas armazenam as variáveis de escopo global e que linguagens orientadas a objetos armazenam os objetos criados através do operador new.
+STACK =>
+Faz perte do heap. Ela é criada -- ou são criadas -- no momento de carregamento do programa, e é usada para possibilitar que mudanças de contextos sejam feitas durante a execução consiga seguir seu fluxo normal.
+Em resumo é onde armazena o programa conforme ele for sendo executado.
+
+
+
